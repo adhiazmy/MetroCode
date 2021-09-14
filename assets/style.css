@@ -1,0 +1,58 @@
+.jumbotron {
+  background: white;
+  background-position: center;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+#about {
+  background-color: #f3f4f5;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  
+}
+
+#pelajaran {
+  background-color: #f3f4f5;
+}
+.background-home {
+  background-color: #f3f4f5;
+}
+
+.card {
+  border-radius: 20px;
+}
+
+.body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: Arial;
+}
+
+.info {
+  background-color: #4caf50;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.navbar-brand {
+  font-family: Arial;
+}
+
+section {
+  padding-top: 5rem;
+}
+.footer{
+  background-color: white;
+  padding-bottom: 3rem;
+}
+
+.container-fluid {
+  background-color: aqua;
+}
+
+.html{
+  padding-top: 10rem;
+}
